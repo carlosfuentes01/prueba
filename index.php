@@ -12,7 +12,7 @@
 
     function drawChart() {
       const data = google.visualization.arrayToDataTable([
-        ['Task', 'Hours per Day'],
+        ['Task', 'Hours'],
         ['Work', 11],
         ['Eat', 2],
         ['Commute', 2],
